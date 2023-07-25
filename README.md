@@ -10,12 +10,12 @@ I made the sticker in English and German, as they are my primary languages. Tran
 ### V1
 This one was done quick and dirty. A friend mentioned the faulty perspective and it bothered me.
 
-<img src="v1/antifascist-archives-action.svg" title="Antifascist Archives Action v1 English Sticker" width="400">
+<img src="v1/antifascist-archives-action.png" title="Antifascist Archives Action v1 English Sticker" width="400">
 
 ### V2
 I invested a bit more time in finding a fitting box, this time in isometric perspective and with some cute details.
 
-<img src="v2/antifascist-archives-action.svg" title="Antifascist Archives Action v2 English Sticker" width="400">
+<img src="v2/antifascist-archives-action.png" title="Antifascist Archives Action v2 English Sticker" width="400">
 
 ## License
 This sticker set is released under [CC0 1.0](LICENSE).
