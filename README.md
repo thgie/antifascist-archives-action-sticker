@@ -15,7 +15,7 @@ Translations are welcome! There are English, German, French, and Italian version
 ### Legacy
 This one was done quick and dirty. A friend mentioned the faulty perspective and it bothered me. For the second version I invested a bit more time in finding a fitting box, this time in isometric perspective and with some cute details.
 
-<img src="v1/antifascist-archives-action.png" title="Antifascist Archives Action v1 English Sticker" width="400">
+<img src="legacy/antifascist-archives-action.png" title="Antifascist Archives Action v1 English Sticker" width="400">
 
 
 ## License
