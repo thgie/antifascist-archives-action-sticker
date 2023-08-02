@@ -7,10 +7,10 @@ I was at the anarchist book fair in St-Imier in 2023, and it was such a beautifu
 ## Sticker Set
 Translations are welcome! There are English, German, French, and Italian versions for now.
 
-<img src="sticker-set/antifascist-archives-action.png" title="English Sticker" width="200">
-<img src="sticker-set/antifaschistische-archive-aktion.png" title="German Sticker" width="200">
-<img src="sticker-set/action-des-archives-antifascistes.png" title="French Sticker" width="200">
-<img src="sticker-set/azione-degli-archivi-antifascisti.png" title="Italian Sticker" width="200">
+<img src="sticker/antifascist-archives-action.png" title="English Sticker" width="200">
+<img src="sticker/antifaschistische-archive-aktion.png" title="German Sticker" width="200">
+<img src="sticker/action-des-archives-antifascistes.png" title="French Sticker" width="200">
+<img src="sticker/azione-degli-archivi-antifascisti.png" title="Italian Sticker" width="200">
 
 ### Legacy
 This one was done quick and dirty. A friend mentioned the faulty perspective and it bothered me. For the second version I invested a bit more time in finding a fitting box, this time in isometric perspective and with some cute details.
